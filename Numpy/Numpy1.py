@@ -25,7 +25,6 @@ F=np.linspace(0,10,5)
 print(F)
 
 G=np.arange(0,10,2)
-# ca donne un tableau de 5 valeurs entre 0 et 10
 print(G)
 
 #dtype est très important pour connaitre le type de données par expl: int32, int64, float32, float64
